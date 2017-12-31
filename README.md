@@ -1,5 +1,7 @@
 # donation-tracker-toplevel
 
+**This is a custom fork of this repository that makes some changes from the original for our specific environment. The intent is to backport as many as these make sense to the GDQ tracker. Thanks to the Tracker team at Games Done Quick for making this awesome code repo and for helping us along the way to consume it! ~Cody "belthesar" Wilson**
+
 Contains the settings and configuration for creating a simple deploy of the tracker.
 
 In order to deploy the tracker, some boilerplate code is neccessary for configuration and management. The goal of this repository is to make doing so as simple as possible for any given user to get started developing on the tracker.
